@@ -1,0 +1,17 @@
+<html>
+<head>
+	<title>Currículo em HTML</title>
+</head>
+<body>
+	<h1 style="color: purple;">Currículo Academico</h1>
+	<p>Nome: Arhtur Cunha Ferreira de Andade</p>
+	<p>Data de Nascimento: 02/03/2008</p>
+	<p>Prontuário: CB3024253</p>
+	<p>Turma: 148</p>
+	<p>Cidade: Cubatão SP</p>
+	<br>
+	<p>Ensino Fundamental 1 (2014-2018): escola municipal Jaime João Olcese</p>
+	<p>6°ano Ensino Fundamental 2 (2019): escola Estadfual Julio Conceição</p>
+	<p>6°ano ao 9°ano Ensino Fundamental 2 (2019-2022): escola Estadual Julio Conceição </p>
+</body>
+</html>
